@@ -1,0 +1,52 @@
+{
+    "Andy": [
+        {
+            "Alamat": "Jogja"
+        },
+        {
+            "Kolega": [
+                "Banu",
+                "Rina"
+            ]
+        }
+    ],
+    "Banu": [
+        {
+            "Alamat": "Solo"
+        },
+        {
+            "Kolega": [
+                "Andy",
+                "Rina"
+            ]
+        }
+    ],
+    "Rina": [
+        {
+            "Alamat": "Solo"
+        },
+        {
+            "Kolega": [
+                "Andy",
+                "Banu"
+            ]
+        }
+    ],
+    "Caca": [
+        {
+            "alamat": "Pati",
+            "kolega": [
+                "Andy",
+                "Banu"
+            ]
+        }
+    ],
+    "Kaka": [
+        {
+            "alamat": "Malang",
+            "kolega": [
+                "Caca"
+            ]
+        }
+    ]
+}
